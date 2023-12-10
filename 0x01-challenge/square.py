@@ -3,7 +3,7 @@
 """
 
 
-class Square:
+class Square():
     """prints a square
     """
 
